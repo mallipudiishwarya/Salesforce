@@ -1,2 +1,2 @@
 Welcome to GitHub
-hi i am ishwarya
+Hi I am ishwarya
